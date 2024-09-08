@@ -1,1 +1,3 @@
-game was made during my first year of bachelor's study
+The Floppy-bird Clone is a recreation of the classic Floppy-bird game made during my first year of bachelor's study and developed using Unity Engine, Audacity, and 2D sprites/audio assets found online. The game features simple yet challenging gameplay where players control a bird that must navigate through a series of vertical obstacles by tapping to make the bird fly upward. The objective is to survive for as long as possible by avoiding the obstacles, with the game getting progressively harder as the player advances.
+
+Key aspects of the clone include smooth player controls, precise collision detection, randomly generated obstacles, and a scoring system that tracks the player’s progress. Additionally, sound effects for jumps, crashes, and background music have been integrated to match the feel of the original game.
